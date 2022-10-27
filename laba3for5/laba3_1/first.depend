@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1666115720 source:c:\comppractic\laba3\first\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666116617 source:c:\comppractic\laba3\first\matrix.c
+	"func.h"
+
+1666115310 c:\comppractic\laba3\first\matrix.h
+	<stdio.h>
+	<stdlib.h>
+
+1666116595 source:c:\comppractic\laba3\first\array.c
+	"func.h"
+
+1666115407 c:\comppractic\laba3\first\array.h
+	<stdio.h>
+	<stdlib.h>
+
+1666115935 source:c:\comppractic\laba3\first\forlib2main.c
+	<stdio.h>
+	"matrix.h"
+
+1666116738 source:c:\comppractic\laba3\first\forlib1main.c
+	<stdio.h>
+	"func.h"
+
+1666117377 c:\comppractic\laba3\first\func.h
+	<stdio.h>
+	<stdlib.h>
+
+1666117513 source:c:\comppractic\laba3\first\load.c
+	"load.h"
+	"func.h"
+	<stdio.h>
+	<windows.h>
+
+1666117543 c:\comppractic\laba3\first\load.h
+
